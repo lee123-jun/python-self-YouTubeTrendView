@@ -1,0 +1,24 @@
+{
+    "_comment": "빌드된 프로그램 테스트를 위한 샘플 설정 파일. 실제 사용 시에는 YouTube Data API v3 키를 발급받아 설정해주세요",
+    "youtube_api_key": "YOUR_YOUTUBE_API_KEY_HERE",
+    "default_max_results": 20,
+    "default_video_duration": "any",
+    "default_published_after": "",
+    "default_published_before": "",
+    "ui_settings": {
+        "window_width": 1400,
+        "window_height": 900,
+        "default_sort_column": "view_count",
+        "default_sort_order": "desc"
+    },
+    "export_settings": {
+        "default_format": "xlsx",
+        "include_thumbnails": false,
+        "max_export_rows": 1000
+    },
+    "api_settings": {
+        "request_timeout": 30,
+        "max_retries": 3,
+        "retry_delay": 1
+    }
+}
