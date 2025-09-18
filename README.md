@@ -1,8 +1,8 @@
 # YouTube 트렌드 판별기
 
-📊 **유튜브 API를 활용한 영상 데이터 수집 및 분석 도구**
+� **Python 기반 YouTube Data API를 활용한 영상 데이터 수집 및 트렌드 분석 도구**
 
-YouTube Data API v3를 통해 영상 데이터를 수집하고, PyQt 기반 GUI로 분석할 수 있는 트렌드 분석 프로그램입니다.
+YouTube Data API v3를 통해 영상 데이터를 수집하고, PyQt 기반 GUI로 분석할 수 있는 트렌드 분석 프로그램입니다. 영상 데이터를 수집해 트렌드 주제, 인기 지표, 참여도(좋아요·댓글 등)에 대한 빠른 분석이 가능합니다!
 
 ## ✨ 주요 기능
 
@@ -308,4 +308,5 @@ youtubepy/
 
 ⭐ **이 프로젝트가 도움이 되었다면 스타를 눌러주세요!**
 
+Made with ❤️ for YouTube content creators and data analysts
 Made with ❤️ for YouTube content creators and data analysts
