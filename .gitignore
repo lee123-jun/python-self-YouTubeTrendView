@@ -23,7 +23,16 @@ MANIFEST
 
 # PyInstaller
 *.manifest
-*.spec
+build/
+dist/
+*_debug.spec
+*_디버그.spec
+*_완전.spec
+*_정상.spec
+*_최종.spec
+디버그버전.spec
+youtube_trend_analyzer.spec
+YouTube_트렌드_분석기.spec
 
 # IDE
 .vscode/
@@ -48,6 +57,9 @@ config/config.json
 # 임시 파일
 fix_*.py
 temp_*.py
+test_*.py
+test_*.json
+check_*.py
 test_*.py
 
 # Windows
